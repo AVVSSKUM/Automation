@@ -11,4 +11,4 @@ def telegram_bot_sendtext(bot_message):
 
 while(True):
      telegram_bot_sendtext("Hello Good Mornining!")
-     time.sleep(60)ng!")
+     time.sleep(24*60*60)
